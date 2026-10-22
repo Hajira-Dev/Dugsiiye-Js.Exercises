@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "Hajira",
+  "city": "Hamburg",
+  "orders": [
+    {
+      "id": 1,
+      "product": "Laptop",
+      "quantity": 1
+    },
+    {
+      "id": 1,
+      "product": "Mouse",
+      "quantity": 1
+    }
+  ]
+}
